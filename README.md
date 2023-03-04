@@ -15,7 +15,7 @@ Nossa proposta é desenvolver um aplicativo mobile que consiga facilitar os usu�
 * Leonardo Silva Jaques
 * Renato Conceição Silva
 * Stephanie Ingrid De Oliveira Pinto
-* Thiago Almeida Amorim
+* Thiago Almeida Amorim.
 
 ## Orientador
 
