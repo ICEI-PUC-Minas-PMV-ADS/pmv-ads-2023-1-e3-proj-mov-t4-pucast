@@ -1,18 +1,9 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Nossa proposta é desenvolver um aplicativo mobile que consiga facilitar os usuários a encontrar os principais podcasts lançados nas diversas plataformas, bem como, realizar a possibilidade de indicar suas oreferências uns aos outros. Desta forma, este app terá a função de conectar pessoas que utilizam o podcast para se informar e formar sobre temas de seus interesses.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+O aumento de aplicativos de streaming e serviços de áudio trouxe a vantagem de possibilitar o acesso a milhões de músicas, podcasts, filmes, etc..., espalhados pelo mundo. Ter acesso a estas obras era impossível a anos atrás. Porém, esta facilidade traz um problema junto a ele. Com tantas plataformas e serviços, distribuidos em tantos fornecedores e localizados em tantos links e apps diferentes, surge um grande desafio para quem busca a informação certa com um nível de conteúdo aceito pela comunidade que busca a mesma informação. Desta forma, surge a seguinte questão: Como encontrar as melhores e as que mais se encaixam com a personalidade e necessidade do momento, diante de tantas ofertas?
 
 ## Objetivos
 
@@ -25,12 +16,13 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Já há algum tempo a forma de se comunicar com as pessoas vêm mudando, rapidamente. As mídias tradicionais, principalmente a televisão aberta, estão perdendo espaços para as mídias digitais, hoje conhecidas como redes sociais. Neste contexto, a forma de aprender e se informar também está mudando. Os telejornais, jornais impressos e os programas de jornalismo no rádio, estão migrando a sua forma de comunicação com o público para se adequar a forma dessas redes.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Outro fator importante que podemos observar é a comunicação de nicho, ou seja, comunicação que foca em alcançar apenas um público específico e que seja interessada em um assunto em particular. Um bom exemplo deste tipo de comunicação são os podcast, forma de se comunicar que atrai um público de uma “bolha” social interessada no mesmo assunto e com a mesma maneira de comunicar. Desta forma, existem um grande número de podcasts espalhados em vários serviços de streaming e com várias qualidades e especificidades diferentes.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Assim, para quem procura furar esta bolha, buscando aprender ou se informar, sobre assuntos diferentes ao seu grupo social, tem um dificuldades para localizar fontes de informações e formações seguras.
+
+O Aplicativo propõe realizar busca ativa sobre os vários podcasts e os assuntos abordados por estes e gerar um ranking dos mais vistos, mais curtidos, para assim, disponibilizar esta oferta de maneira organizada para os usuários. Também possibilitar que os usuários possam fazer suas avaliações e indicações de podcasts que, em seu juízo, tenha assunto relevante e com qualidade de informação.
 
 ## Público-Alvo
 
