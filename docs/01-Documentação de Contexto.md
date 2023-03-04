@@ -7,9 +7,11 @@ O aumento de aplicativos de streaming e serviços de áudio trouxe a vantagem de
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O nosso projeto foi pensado em um dos maiores entretenimentos da atualidade para facilitar encontrar uma lista com os principais podcasts (com mais visualizações e avaliações) e assim montar uma lista de favoritos e poder compartilhar com amigos.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+O objetivo do projeto é centralizar todos os podcast em um aplicativo onde terá ranking de mais acessados e melhor avaliados.
+
+Através dessa plataforma o cliente vai ter a possibilidade compartilhar diferentes podcasts com os mais diversos assuntos.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
