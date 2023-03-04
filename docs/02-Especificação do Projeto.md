@@ -48,17 +48,40 @@ Atualmente muitos usuários de plataformas como o spotfy e o deezer sentem falta
 
 ### Descrição Geral da Proposta
 
-Propoe-se que sejá possível desenvolver um aplicativo móvel que permita os usuário pesquisar por podcasts específicos ou os que estão em alta na atualidade e compartilhar os podcasts que mais lhes interessa ou listas de podcasts.
+Propõe-se que sejá possível desenvolver um aplicativo móvel que permita os usuário pesquisar por podcasts específicos ou os que estão em alta na atualidade e compartilhar os podcasts que mais lhes interessa ou listas de podcasts.
 
-### Processo 1 – Favoritar ou Desfavoritar o Podcast
+### Processo 1 – Tela Inicial com Filtragem de Podcasts  
 
-![Processo 1](img/02-bpmn-proc1.png)
+![Processo 1](img/tela_inicial.jpg)
 
-### Processo 2 – NOME DO PROCESSO
+### Processo 2 – Login e Cadastro de Usuário
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+![Processo 2.1](img/login_cadastro_usuarios_cima.jpg)
+![Processo 2.2](img/Login_cadastro_usuarios_baixo.jpg)
 
-![Processo 2](img/02-bpmn-proc2.png)
+### Processo 3 – Favoritar e Desfavoritas Podcasts
+
+![Processo 3](img/Favoritar_Desfavoritar.jpg)
+
+### Processo 4 – Criação de Listas de Podcast
+
+![Processo 4](img/criar_nova_lista.jpg)
+
+### Processo 5 – Filtragem e Pesquisa por Listas para Gerenciamento
+
+![Processo 5](img/Gerenciar_Listas.jpg)
+
+### Processo 6 – Atualização de Dados da Lista
+
+![Processo 6](img/Atualizar_dados_lista.jpg)
+
+### Processo 7 – Adicionar Podcasts a uma Lista
+
+![Processo 7](img/adicionar_podcast_a_lista.jpg)
+
+### Processo 8 – Compartilhar Listas ou Podcasts
+
+![Processo 8](img/Compartilhar_lista_podcast.jpg)
 
 ## Indicadores de Desempenho
 
