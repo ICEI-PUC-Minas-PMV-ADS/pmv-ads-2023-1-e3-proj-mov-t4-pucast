@@ -44,15 +44,13 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Atualmente muitos usuários de plataformas como o spotfy e o deezer sentem falta de um aplicativo específico para podcasts, mas além disso um aplicativo que permita esses usuário pesquisarem pelos podcasts que estão em alta, criar e compartilhar listas com seus podcasts favoritos etc. 
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+Propoe-se que sejá possível desenvolver um aplicativo móvel que permita os usuário pesquisar por podcasts específicos ou os que estão em alta na atualidade e compartilhar os podcasts que mais lhes interessa ou listas de podcasts.
 
-### Processo 1 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+### Processo 1 – Favoritar ou Desfavoritar o Podcast
 
 ![Processo 1](img/02-bpmn-proc1.png)
 
