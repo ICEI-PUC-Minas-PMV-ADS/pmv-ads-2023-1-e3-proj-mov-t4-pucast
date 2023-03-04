@@ -6,7 +6,7 @@
 
 `3º SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Nossa proposta é desenvolver um aplicativo mobile que consiga facilitar os usuários a encontrar os principais podcasts lançados nas diversas plataformas, bem como, realizar a possibilidade de indicar suas oreferências uns aos outros. Desta forma, este app terá a função de conectar pessoas que utilizam o podcast para se informar e formar sobre temas de seus interesses.
 
 ## Integrantes
 
@@ -23,7 +23,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Em breve teremos aqui, instruções de uso.
 
 # Documentação
 
