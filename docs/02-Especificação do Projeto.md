@@ -11,9 +11,12 @@ Os detalhes levantados nesse processo foram consolidados na forma de personas e 
 O ponto de partida para ranquear os podcasts mais ouvidos foi concretizado após sondagem e estudos realizados feitos pelos membros da equipe. 
 Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
-TABELA DE PERSONAS
+### TABELA DE PERSONA  
 
-![Persona 1](persona 1.JPG)
+![Persona 1](img/persona%201.JPG)
+
+![Persona 1](img/persona%202.JPG)
+
 
 
 
