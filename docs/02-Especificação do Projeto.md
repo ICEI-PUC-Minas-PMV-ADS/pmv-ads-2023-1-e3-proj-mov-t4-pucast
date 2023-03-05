@@ -44,23 +44,44 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Atualmente muitos usuários de plataformas como o spotfy e o deezer sentem falta de um aplicativo específico para podcasts, mas além disso um aplicativo que permita esses usuário pesquisarem pelos podcasts que estão em alta, criar e compartilhar listas com seus podcasts favoritos etc. 
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+Propõe-se que sejá possível desenvolver um aplicativo móvel que permita os usuário pesquisar por podcasts específicos ou os que estão em alta na atualidade e compartilhar os podcasts que mais lhes interessa ou listas de podcasts.
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – Tela Inicial com Filtragem de Podcasts  
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+![Processo 1](img/tela_inicial.jpg)
 
-![Processo 1](img/02-bpmn-proc1.png)
+### Processo 2 – Login e Cadastro de Usuário
 
-### Processo 2 – NOME DO PROCESSO
+![Processo 2.1](img/login_cadastro_usuarios_cima.jpg)
+![Processo 2.2](img/Login_cadastro_usuarios_baixo.jpg)
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+### Processo 3 – Favoritar e Desfavoritas Podcasts
 
-![Processo 2](img/02-bpmn-proc2.png)
+![Processo 3](img/Favoritar_Desfavoritar.jpg)
+
+### Processo 4 – Criação de Listas de Podcast
+
+![Processo 4](img/criar_nova_lista.jpg)
+
+### Processo 5 – Filtragem e Pesquisa por Listas para Gerenciamento
+
+![Processo 5](img/Gerenciar_Listas.jpg)
+
+### Processo 6 – Atualização de Dados da Lista
+
+![Processo 6](img/Atualizar_dados_lista.jpg)
+
+### Processo 7 – Adicionar Podcasts a uma Lista
+
+![Processo 7](img/adicionar_podcast_a_lista.jpg)
+
+### Processo 8 – Compartilhar Listas ou Podcasts
+
+![Processo 8](img/Compartilhar_lista_podcast.jpg)
 
 ## Indicadores de Desempenho
 
@@ -73,21 +94,39 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
 ### Requisitos Funcionais
 
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
+
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O aplicativo deverá permitir que o usuário possa se cadastrar ou fazer login e desta forma tenha acesso às funcionalidades disponibilizadas.  | ALTA | 
+|RF-002| O aplicativo deverá permitir que o usuário redefina sua senha caso o mesmo se esqueceça dela.   | Alta |
+|RF-003| O aplicativo deve permitir o usuário compartilhar sua lista e podcasts favoritos com outros no whatsapp.   | Alta |
+|RF-004| O aplicativo deverá permitir que o usuário pesquise por um podcast específico em um campo de busca na tela inicial.   | Alta |
+|RF-005| O aplicativo deve permitir o usuário favoritar podcasts e automaticamente inseri-los em uma lista de podcasts favoritados pelo usuário.   | Alta |
+|RF-006| Na tela inicial o usuário deverá ter acesso a uma thumbnail com os principais podcasts recomendados pelo sistema.   | Média |
+|RF-007| O aplicativo deve permitir o usuário criar listas para armazenar determinados podcasts.   | Média |
+|RF-008|O usuário deve ter a possibilidade de fazer a gestão de suas listas inserindo e removendo podcasts dessas listas ou até mesmo editando o nome da lista.    | Média |
+|RF-009| O usuário deve poder criar e ordenar a descrição de uma de suas lista.  | Baixa |
+|RF-010| O usuário deve poder ordenar suas listas ou filtrar pelo nome de uma lista específica.   | Baixa |
+|RF-011| O aplicativo deve permitir que o usuário ordene os podcasts sugeridos por ele.   | Baixa |
 
 ### Requisitos não Funcionais
 
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
+
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O aplicativo deve ser publicado em um ambiente acessível publicamente. | Alta | 
+|RNF-002| O aplicativo deverá ser responsivo permitindo a visualização em um celular de forma adequada |  Alta | 
+|RNF-003| O aplicativo deve ser compatível com o sistema andriod |  Alta | 
+|RNF-004| O aplicativo deve ter bom nível de contraste entre os elementos da tela em conformidade  |  Média | 
+|RNF-005| O aplicativo deve ter um tema black para que deixe os usuários mais confortáveis durante o usuo. |  Média | 
+|RNF-006| O aplicativo deve utilizar cores e ícones que sejam mais intuitivos para o usuário final. |  Média | 
+|RNF-007| O aplicativo deve ser em português BR. |  BAIXA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -106,12 +145,13 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 07/07/2023. |
+|02| A equipe deverá utilizar específicamente react native no front end.         |
+|02| A equipe não poderá ter auxilios externos se de outros integrantes dela mesma para o desenvolvimento do projeto.     |
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
