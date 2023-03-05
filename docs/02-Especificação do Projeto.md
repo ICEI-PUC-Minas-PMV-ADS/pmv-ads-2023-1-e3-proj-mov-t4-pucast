@@ -44,7 +44,7 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 ### Análise da Situação Atual
 
-Atualmente muitos usuários de plataformas como o spotfy e o deezer sentem falta de um aplicativo específico para podcasts, mas além disso um aplicativo que permita esses usuário pesquisarem pelos podcasts que estão em alta, criar e compartilhar listas com seus podcasts favoritos etc. 
+Atualmente muitos usuários de plataformas como o spotfy e o deezer sentem falta de um aplicativo específico para podcasts, mas além disso um aplicativo que permita esses usuário pesquisarem pelos podcasts que estão em alta, criar e compartilhar listas com seus podcasts favoritos etc
 
 ### Descrição Geral da Proposta
 
