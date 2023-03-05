@@ -28,10 +28,10 @@ O Aplicativo propõe realizar busca ativa sobre os vários podcasts e os assunto
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Apesar de ser de fácil acesso, os podcasts ainda estão em fase de expansão, sendo assim, o foco deste trabalho está no público que tem o hábito consumir conteúdos, seja como forma de ampliarem seu conhecimento, como entretenimento, como compartilhamento e recomendações de listas.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Desse modo, estabeleceu-se como público-alvo desta solução os homens e as mulheres entre 22 a 35 anos que usam frequentemente smartphones e dispositivos móveis para se manterem atualizados com assuntos relacionados às suas áreas profissionais, como passatempo ou ainda os assuntos mais viralizados do momento principalmente ranqueados pela métrica de números de views.
+
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
