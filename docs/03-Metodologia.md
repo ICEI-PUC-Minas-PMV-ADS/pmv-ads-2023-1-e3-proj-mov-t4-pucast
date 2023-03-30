@@ -81,7 +81,7 @@ nessa lista são colocadas as tarefas que passaram pelos testes de controle de q
 
 O quadro kanban do grupo no Trello — disponível através da URL <a href=https://trello.com/b/Y0TsILAi/projeto-academia> LINK DO QUADRO </a> — é apresentado, no estado atual, na Figura abaixo. A definição dessa estrutura se baseou na proposta feita por Littlefield (2016).
 
-![Cambam de projeto](img/trelo.jpg )
+![Processo 1](img/tela_inicial.jpg)
 
 A tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias: 
 
