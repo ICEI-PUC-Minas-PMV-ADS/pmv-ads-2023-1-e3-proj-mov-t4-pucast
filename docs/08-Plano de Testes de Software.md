@@ -15,7 +15,7 @@
 |**Critérios de êxito:**|O teste será considerado com sucesso caso abranja todas as possibilidades de entradas de dados e o sistema esteja tratando todas as opções possíveis|
 |**Considerações especiais:**|não se aplica|
 
-### Teste de Sistema
+### 2- Teste de Sistema
 
 |*objetivo da técnica:*|*Realizar a navegaçao pelo sistema como usuário final*|
 |-------------------|--|
@@ -25,7 +25,7 @@
 |**Considerações especiais:**|não se aplica |
 
 
-### Teste de Aceitação
+### 3- Teste de Aceitação
 
 |*objetivo da técnica:*|*Realizar o login/cadastro de um usuário*|
 |-------------------|--|
@@ -34,7 +34,7 @@
 |**Critérios de êxito:**|o usuário conseguir logar e fazer cadastro na plataforma|
 |**Considerações especiais:**|não se aplica|
 
-### Teste de Integridade de Dados e de Banco de Dados 
+### 4- Teste de Integridade de Dados e de Banco de Dados 
 
 |*objetivo da técnica:*|*verificar o funcionamento do banco de dados a fim de identificar possíveis erros ou dados e comando corrompidos*|
 |-------------------|--|
@@ -43,7 +43,7 @@
 |**Critérios de êxito:**|O banco de daos estar de acordo com o esperado|
 |**Considerações especiais:**|Não se aplica|
 
-### Teste de interface do Usuário 
+### 5- Teste de interface do Usuário 
 
 
 |*objetivo da técnica:*|*Verificar a navegabilidade pelo aplicativo*|
@@ -54,7 +54,7 @@
 |*Considerações especiais:*|não se aplica|
 
 
-### Teste de Carga 
+### 6- Teste de Carga 
 
 |*objetivo da técnica:*|*Testar o aplicativo na carga de trabalho para armazenamento dos podcasts favoritos selecionados pelo cliente e o desempenho de dos dados no sistema*|
 |-------------------|--|
@@ -63,7 +63,7 @@
 |**Critérios de êxito:**| boa resposta do aplicativo a adiçao de podcast|
 |**Considerações especiais:**| não se aplica|
 
-### Teste de Segurança e Controle de Acesso 
+### 7- Teste de Segurança e Controle de Acesso 
 
 |*objetivo da técnica:*|*Verificar a segurança no aplicativo para o acesso ao login e ao inserir dados de cadastro , Respeitando a lei de Proteção Geral de Dados*|
 |-------------------|--|
@@ -73,7 +73,7 @@
 |**Considerações especiais:**|não se aplica|
 
 
-### Teste de Instalação 
+### 8- Teste de Instalação 
 
 |*objetivo da técnica:*|Verificar se o sistema funciona em outras máquinas que nunca receberam ou acessaram o aplicativo|
 |-------------------|--|
