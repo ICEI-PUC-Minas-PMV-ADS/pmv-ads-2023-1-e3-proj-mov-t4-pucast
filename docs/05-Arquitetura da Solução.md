@@ -17,7 +17,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 ## Indicadores de Desempenho
 
-![Dashboard](img/INDICADORES DE DESEMPENHO PUCAST.png)
+![Dashboard](img/INDICADORESDEDESEMPENHOPUCAST.png)
 
 ## Modelo ER
 
