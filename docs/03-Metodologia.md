@@ -17,7 +17,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |---------| ----------- |  --------------|
 |Repositório de código fonte|Git Hub| https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast  |
 Documentos do Projeto|Pasta Src do projeto|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/tree/main/src) | 
-|Projeto de Interface e Wireframes| Figma|  https://www.figma.com/file/aXiLKAsuXGIsSiGctHkWxe/Tela-de-Cadastro?node-id=0%3A1 | 
+|Projeto de Interface e Wireframes| Figma|  https://www.figma.com/proto/b6F7nN09Xg0VwGtQjnSPfR/Stephanie-Ingrid-s-team-library?node-id=0-1&scaling=scale-down&starting-point-node-id=411%3A329 | 
 |Gerenciamento do Projeto| Trello|   https://trello.com/b/Y0TsILAi/projeto-Academia  |
 
 ## Controle de Versão
@@ -81,7 +81,7 @@ nessa lista são colocadas as tarefas que passaram pelos testes de controle de q
 
 O quadro kanban do grupo no Trello — disponível através da URL <a href=https://trello.com/b/Y0TsILAi/projeto-academia> LINK DO QUADRO </a> — é apresentado, no estado atual, na Figura abaixo. A definição dessa estrutura se baseou na proposta feita por Littlefield (2016).
 
-<img src=https:https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/edit/main/docs/img/trelo.jpg />
+![Processo 1](img/Trelo.JPG)
 
 A tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias: 
 
