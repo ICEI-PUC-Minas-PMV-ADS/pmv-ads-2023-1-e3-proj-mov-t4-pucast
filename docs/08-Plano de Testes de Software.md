@@ -2,7 +2,7 @@
  
  ## Introdução 
 
- Este teste  tem como objetivo verificar uma ferramenta capaz de auxiliar usuários a selecionarem podcast de acordo com seu gosto em uma plataforma chamada Pucast. O usuário precisa realizar cadastro e inserir seus dados. Para isso, iremos criar e administrar um banco de dados que possibilitará armazenar todas as informações necessárias para o gerenciamento dos dados cadastrados como nome de usuário , senha e email assim como a lista de podcast selecionados. Os testes abrangerão os níveis de Unidade, de Aceitação e de Sistema.
+ Este teste  tem como objetivo verificar uma ferramenta capaz de auxiliar usuários a selecionarem podcast de acordo com seu gosto em uma plataforma chamada Pucast. O usuário precisa realizar cadastro e inserir seus dados. Para isso, iremos criar e administrar um banco de dados que possibilitará armazenar todas as informações necessárias para o gerenciamento dos dados cadastrados como nome de usuário , senha e email assim como a lista de podcast selecionados. Os testes abrangerão os níveis de Unidade, de Aceitação e de Sistema. **O plano de teste de software sofrerá alterações ao longo do desenvolvimento do projeto** 
 
 ## Técnicas e tipos de testes 
 
@@ -10,14 +10,15 @@
 
 |*objetivo da técnica:*|*o objetivo do teste de unidade é garantir que o código esteja funcionando corretamente e que esteja fazendo o que é esperado dele.*|
 |-------------------|--|
-|**Técnica:**|O grupo , até o nomento, não tem nada automatizado. O teste será feito manualemnte pelos programadores, conferindo botões e a navegação pela plataforma|
+|**Técnica:**|O grupo , até o nomento, não tem nada automatizado. O teste será feito manualemnte pelos programadores, conferindo botões e a navegação pela plataforma 
+passos :- conferir o funcionamento do entrar e cadastrar, -conferir o funcionamento do cadastro com email e senha , - confeir o nick name, - conferir o funcionamento da tela principal de podcats|
 |**Ferramentas necessárias:**|será definido posteriormente|
 |**Critérios de êxito:**|O teste será considerado com sucesso caso abranja todas as possibilidades de entradas de dados e o sistema esteja tratando todas as opções possíveis|
 |**Considerações especiais:**|não se aplica|
 
 ### 2- Teste de Sistema
 
-|*objetivo da técnica:*|*Realizar a navegaçao pelo sistema como usuário final*|
+|*objetivo da técnica:*|*Realizar a navegação pelo sistema como usuário final*|
 |-------------------|--|
 |**Técnica:**|será utilizada o teste de usabilidade como complemento e o teste dos programadores simulando usuários|
 |**Ferramentas necessárias:**|Apenas o sistema funcionando|
@@ -29,7 +30,7 @@
 
 |*objetivo da técnica:*|*Realizar o login/cadastro de um usuário*|
 |-------------------|--|
-|**Técnica:**|o usuário usa o sistema para logar e para inserir os seus dados para realizar operações dentro do aplicativo|
+|**Técnica:**|o usuário usa o sistema para logar e para inserir os seus dados para realizar operaçõesdentro do aplicativo- clicar no botão entrar , - inserir senha e email,- entrar ou inserir o nick name em caso de cadastro |
 |**Ferramentas necessárias:**|apenas o sistema funcionando|
 |**Critérios de êxito:**|o usuário conseguir logar e fazer cadastro na plataforma|
 |**Considerações especiais:**|não se aplica|
@@ -39,7 +40,7 @@
 |*objetivo da técnica:*|*verificar o funcionamento do banco de dados a fim de identificar possíveis erros ou dados e comando corrompidos*|
 |-------------------|--|
 |**Técnica:**||
-|**Ferramentas necessárias:**|* ferramenta a ser definida para o banco de dados pelo grupo e Banco de dados do sistema definido|
+|**Ferramentas necessárias:**| ferramenta a ser definida para o banco de dados pelo grupo e Banco de dados do sistema definido|
 |**Critérios de êxito:**|O banco de daos estar de acordo com o esperado|
 |**Considerações especiais:**|Não se aplica|
 

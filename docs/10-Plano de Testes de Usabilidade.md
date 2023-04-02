@@ -101,6 +101,8 @@ Com o relatório Useberry , poderemos observar de maneira mais detalhada mapas d
 
 A plataforma Useberry também realiza pesquisas de usuários e faz médias de dados . A imagem abaixo mostra um exemplo do seu funcionamento. 
 
+![Exemplo tela do useberry](img/prototyprio_toolbox_images_05-768x539.png)
+
 
 
 
