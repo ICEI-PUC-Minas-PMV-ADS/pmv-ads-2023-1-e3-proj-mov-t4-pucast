@@ -3,7 +3,7 @@
 create table usuario(
 id_usuario int not null,
 nome varchar (255) not null,
-Username varchar (2) not null,
+Username varchar (255) not null,
 email varchar (255) not null,
 senha varchar (255) not null,
 primary key (id_usuario)
