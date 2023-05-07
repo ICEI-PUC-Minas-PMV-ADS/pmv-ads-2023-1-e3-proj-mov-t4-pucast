@@ -6,7 +6,8 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 ## Avaliação
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+Testes realizados conforme **registro no itens 4 e 5**. Os testes de interface de Cadastro de usuário e Login fora realizados e estão evidenciados no vídeo guardados em:
+> - [Teste de Login e cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/tree/main/presentation/Videos)
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
