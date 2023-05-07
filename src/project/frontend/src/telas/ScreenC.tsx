@@ -1,8 +1,14 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react-native';
 import { SafeAreaView, ScrollView,StyleSheet, Text, View, TextInput ,TouchableOpacity } from 'react-native';
+import {useNavigation} from '@react-navigation/native';
 
-export default function App() {
+export function ScreenC () {
+    const navigation = useNavigation();
+    
+function continuosScreen() {
+ navigation.navigate('screenD');
+}
   return (
     <SafeAreaView style={styles.container}>
       <StatusBar style="auto"/>
@@ -14,7 +20,7 @@ justifyContent: "center",
       }}
       >
       <View style={styles.content}>
-<Text style={styles.title}>Login</Text>
+<Text style={styles.title}>Cadastro</Text>
 <View style={styles.inputContainer}>
   < TextInput 
   style={styles.input}
@@ -30,9 +36,11 @@ justifyContent: "center",
   selectionColor="#000000"/>
 </View>
 <View>
-<TouchableOpacity style={styles.loginButton}>
+<TouchableOpacity 
+onPress={continuosScreen}
+style={styles.loginButton}>
     <Text style={styles.loginButtonText}>
-Entrar
+Continuar
     </Text>
   </TouchableOpacity>
 </View>
@@ -82,4 +90,3 @@ marginTop: 20,
     fontSize : 16, 
   }
 });
-
