@@ -1,7 +1,9 @@
-import { Routes } from "./src/routes";
 
-export default function App() {
-  return (
-    <Routes />
-  );
+import { FC } from 'react';
+import { Routes } from './src/routes';
+
+const App: FC = () => {
+  return <Routes />;
 }
+
+export default App;
