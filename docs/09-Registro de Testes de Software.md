@@ -8,6 +8,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 Testes realizados conforme **registro no itens 4 e 5**. Os testes de interface de Cadastro de usuário e Login fora realizados e estão evidenciados no vídeo guardados em:
 > - [Teste de Login e cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/tree/main/presentation/Videos)
+> Link do vídeo no youtube :https://youtube.com/shorts/7om_FK76gQM?feature=share . 
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
