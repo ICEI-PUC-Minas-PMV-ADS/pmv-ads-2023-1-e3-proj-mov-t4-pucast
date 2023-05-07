@@ -6,9 +6,9 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 ## Avaliação
 
-Testes realizados conforme **registro no itens **1,2,3,4,5,8**. Os testes de interface de Cadastro de usuário e Login fora realizados e estão evidenciados no vídeo guardados em:
+Testes realizados conforme **registro no itens 1,2,3,4,5,8**. Os testes de interface de Cadastro de usuário e Login fora realizados e estão evidenciados no vídeo guardados em:
 > - [Teste de Login e cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/tree/main/presentation/Videos)
-> Link do vídeo no youtube :https://youtube.com/shorts/7om_FK76gQM?feature=share. 
+> - [Link do vídeo no youtube](https://youtube.com/shorts/7om_FK76gQM?feature=share.) 
 
 De acordo com os ítens descritos em Plano de Testes de software , segue os registros abaixo : 
 - **1- Teste de unidade** :*o objetivo do teste de unidade é garantir que o código esteja funcionando corretamente e que esteja fazendo o que é esperado dele;* É notório no vídeo que o sistema responde bem aos comandos dos botões e não realiza o salvamento de nenhuma informação por não tem banco de dados . 
