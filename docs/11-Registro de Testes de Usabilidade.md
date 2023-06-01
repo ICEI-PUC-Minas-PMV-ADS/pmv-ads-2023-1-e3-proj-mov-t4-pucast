@@ -36,6 +36,7 @@ Passos esperados que o usuário faça:
 * Conseguir favoritar o podcast indicado : **os usuários tentaram favoritar os usuários pelo botão , ou acessar o botão de favoritados na partre de baixo do aplicativo, porém , não foi possível identificar se eles queriam ver os favoritados ou favoritar um usuário**
 
 |Problema|Nível de Severidade|Solução|
+|--------|------------------|--------|
 |Usuários não identificaram o símbolo de favoritar como um coração|médio|trocar o ícone de coração, comumente utilizado no Instagram como curtida ou amei , por outro ícone que indique "favoritar"|
 |Página não foi criada|Alto|Criar um página simples com os podcasts favoritados ou alguma notificação que indique a seleção do podcast|
 
@@ -47,6 +48,7 @@ Passos esperados que o usuário faça:
  * Conseguir retornar a tela inicial do aplicativo **Nenhum usuário retornou à tela inicial**
 
 |Problema|Nível de Severidade|Solução|
+|-------|---------------------|------|
 |Usuários não identificaram o símbolo de favoritar como uma seta|médio|trocar o ícone de seta, comumente utilizado para voltar a tela anterior, por outro ícone que indique "voltar a home" ou identificar com um pequeno texto o símbolo como "voltar a página principal"|
 
 
