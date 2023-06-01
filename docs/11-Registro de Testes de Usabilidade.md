@@ -1,8 +1,61 @@
 # Registro de Testes de Usabilidade
 
-Após realizar os testes de usabilidade, obtém-se um relatório a partir das análises realizadas. O Registro de Testes de Usabilidade é um relatório que contém as evidências dos testes e relatos dos usuários participantes, baseado no Plano de Testes de Usabilidade desenvolvido para os casos de uso desta etapa.
+Utilizando a plataforma Useberry, em conjunto com o Figma para o Protótipo, foi realizado o teste com 10 pessoas. Os usuários tem seus dados protegidos, não tendo nomes divulgados. 
+O teste foi feito de forma remota, com diferentes perfis e idades. 
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Registro de Testes de Usabilidade”.
+Abaixo , é mostrado que os usuários utilizam tanto computador quanto notebook para fazer o teste. 
 
-> **Links Úteis**:
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+### 1- Cadastrar o usuário na plataforma 
+
+Passos esperados que o usuário faça: 
+
+* Na tela inicial , saber identificar qual botão indica cadastro (CADASTRAR) : **Os usuários souberam identificar os botões** 
+* Conseguir , após clicar no botão correto, inserir os dados corretos : **pedimos aos usuários para simularem o clique e , com sucesso, foi simulado**
+* clicar no botão confirmar para proseguir para a próxima página : **os usuários conseguiram identificar o botão** 
+* Após cadastro, conseguir inserir seu nome de usuário : **os usuários simularam corretamente a inserção de dados**
+* clicar no botão ENTRAR e acessar a plataforma : **Os usuários conseguiram acessar a pagina principal**
+
+|Problema|Nível de Severidade|Solução|
+|-------|-------------------|-------|
+
+
+### 2- Entrar na plataforma 
+
+* Após realizar o cadastro , o usuário volta da tela inicial e seleciona o botão ENTRAR : **Os usuários souberam identificar a diferença entre os botões Entrar e cadastrar**
+* Inserir os dados cadastrados para Login **de forma simulada, os usuários conseguiram simular os cliques** 
+* Acessar a plataforma com podcats do aplicativo  **Os usuários conseguiram acessar novamente a página principal**
+
+|Problema|Nível de Severidade|Solução|
+|-------|-------------------|-------|
+
+
+### 3- Conseguir Favoritar um usuário 
+
+* Ao acessar o aplicativo , identificar o ícone coração **Os usuários conseguiram identificar que o ícone significava compartilhar**
+* Clicar no coração indicado para um podcats expecifíco **Os usuários não conseguiram identificar a diferença entre o coração preeenchido e o coração sem cor**
+* Conseguir favoritar o podcast indicado : **os usuários tentaram favoritar os usuários pelo botão , ou acessar o botão de favoritados na partre de baixo do aplicativo, porém , não foi possível identificar se eles queriam ver os favoritados ou favoritar um usuário**
+
+|Problema|Nível de Severidade|Solução|
+|Usuários não identificaram o símbolo de favoritar como um coração|médio|trocar o ícone de coração, comumente utilizado no Instagram como curtida ou amei , por outro ícone que indique "favoritar"|
+|Página não foi criada|Alto|Criar um página simples com os podcasts favoritados ou alguma notificação que indique a seleção do podcast|
+
+
+
+### 4- Voltar a tela inicial 
+
+ * Identificar o símbolo que indica voltar : **Nenhum usuários conseguiu identificar o símbolo de voltar**
+ * Conseguir retornar a tela inicial do aplicativo **Nenhum usuário retornou à tela inicial**
+
+|Problema|Nível de Severidade|Solução|
+|Usuários não identificaram o símbolo de favoritar como uma seta|médio|trocar o ícone de seta, comumente utilizado para voltar a tela anterior, por outro ícone que indique "voltar a home" ou identificar com um pequeno texto o símbolo como "voltar a página principal"|
+
+
+
+ ### 5- Compartilhar algum podcast 
+
+ * Selecionar o Podcats indicado  **Os usuários não conseguiram identificar a diferença entre o coração preeenchido e o coração sem cor**
+ * Identificar o símbolo compartilhar **os usuários conseguiram identificar o símbolo de compartilhar**
+ * Fazer o compartilhamento fictício **os usuários fizeram o compartilhamento fictício**
+
+|Problema|Nível de Severidade|Solução|
+|-------|-------------------|-------|
