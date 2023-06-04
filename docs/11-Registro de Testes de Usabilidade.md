@@ -15,6 +15,11 @@ Passos esperados que o usuário faça:
 * Após cadastro, conseguir inserir seu nome de usuário : **os usuários simularam corretamente a inserção de dados**
 * clicar no botão ENTRAR e acessar a plataforma : **Os usuários conseguiram acessar a pagina principal**
 
+![docs/Cadastro_1.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/blob/main/docs/Cadastro_1.png)
+
+
+![[Segunda parte do Cadastro](docs/Cadastro_2_.png)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/blob/main/docs/Cadastro_2_.png)
+
 |Problema|Nível de Severidade|Solução|
 |-------|-------------------|-------|
 
@@ -25,19 +30,29 @@ Passos esperados que o usuário faça:
 * Inserir os dados cadastrados para Login **de forma simulada, os usuários conseguiram simular os cliques** 
 * Acessar a plataforma com podcats do aplicativo  **Os usuários conseguiram acessar novamente a página principal**
 
+![[Tela Inicial](docs/img/Tela_inicial.png)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/blob/main/docs/img/Tela_inicial.png)
+
+![[Login](docs/img/Login.png)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/blob/main/docs/img/Login.png)
+
 |Problema|Nível de Severidade|Solução|
 |-------|-------------------|-------|
+
+# Tela de navegação principal de podcasts: Serve para as três análises abaixo !
+
+
+![[Navegação](docs/img/Navegar.png)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/blob/main/docs/img/Navegar.png)
 
 
 ### 3- Conseguir Favoritar um usuário 
 
-* Ao acessar o aplicativo , identificar o ícone coração **Os usuários conseguiram identificar que o ícone significava compartilhar**
+
+* Ao acessar o aplicativo , identificar o ícone coração **Os usuários conseguiram identificar que o ícone significava coração**
 * Clicar no coração indicado para um podcats expecifíco **Os usuários não conseguiram identificar a diferença entre o coração preeenchido e o coração sem cor**
-* Conseguir favoritar o podcast indicado : **os usuários tentaram favoritar os usuários pelo botão , ou acessar o botão de favoritados na partre de baixo do aplicativo, porém , não foi possível identificar se eles queriam ver os favoritados ou favoritar um usuário**
+* Conseguir favoritar o podcast indicado : **os usuários tentaram favoritar os usuários pelo botão , ou acessar o botão de favoritados na parte de baixo do aplicativo, porém , não foi possível identificar se eles queriam ver os favoritados ou favoritar um usuário**
 
 |Problema|Nível de Severidade|Solução|
 |--------|------------------|--------|
-|Usuários não identificaram o símbolo de favoritar como um coração|médio|trocar o ícone de coração, comumente utilizado no Instagram como curtida ou amei , por outro ícone que indique "favoritar"|
+|Usuários não identificaram o símbolo de favoritar como um coração|médio|trocar o ícone de coração, comumente utilizado no Instagram como curtida ou amei , por outro ícone que indique "favoritar" ou indenticar na parte de baixo o ícone como "Favoritos"|
 |Página não foi criada|Alto|Criar um página simples com os podcasts favoritados ou alguma notificação que indique a seleção do podcast|
 
 
@@ -55,7 +70,7 @@ Passos esperados que o usuário faça:
 
  ### 5- Compartilhar algum podcast 
 
- * Selecionar o Podcats indicado  **Os usuários não conseguiram identificar a diferença entre o coração preeenchido e o coração sem cor**
+ * Selecionar o Podcats indicado  **Os usuários não conseguiram identificar algo para selecionar um podcast específico para compartilhar**
  * Identificar o símbolo compartilhar **os usuários conseguiram identificar o símbolo de compartilhar**
  * Fazer o compartilhamento fictício **os usuários fizeram o compartilhamento fictício**
 
