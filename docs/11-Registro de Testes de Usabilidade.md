@@ -1,9 +1,19 @@
 # Registro de Testes de Usabilidade
 
-Utilizando a plataforma Useberry, em conjunto com o Figma para o Protótipo, foi realizado o teste com 10 pessoas. Os usuários tem seus dados protegidos, não tendo nomes divulgados. 
-O teste foi feito de forma remota, com diferentes perfis e idades. 
+### Utilizando a plataforma Useberry, em conjunto com o Figma para o Protótipo, foi realizado o teste com 10 pessoas. Os usuários tem seus dados protegidos, não tendo nomes divulgados. 
 
-Abaixo , é mostrado que os usuários utilizam tanto computador quanto notebook para fazer o teste. 
+![[Consentimento usuários](docs/img/Captura de tela 2023-06-04 081235.png)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/blob/main/docs/img/Captura%20de%20tela%202023-06-04%20081235.png)
+
+## O teste foi feito de forma remota, com diferentes perfis, idades, localidades e dispositivos. 
+
+![[Tipos de dispositivos usados pelos usuários](docs/img/Captura de tela 2023-06-04 081736.png)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/blob/main/docs/img/Captura%20de%20tela%202023-06-04%20081736.png)
+
+## Abaixo , é mostrado que os usuários utilizam vários tipos de plataformas para escutar podcasts, dentre eles o mais usado o Youtube .
+
+![[Tipos de plataforma preferidas](docs/img/Captura de tela 2023-06-04 081304.png)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/blob/main/docs/img/Captura%20de%20tela%202023-06-04%20081304.png)
+
+# Análise do teste de usabilidade : 
+
 
 ### 1- Cadastrar o usuário na plataforma 
 
@@ -64,7 +74,7 @@ Passos esperados que o usuário faça:
 
 |Problema|Nível de Severidade|Solução|
 |-------|---------------------|------|
-|Usuários não identificaram o símbolo de favoritar como uma seta|médio|trocar o ícone de seta, comumente utilizado para voltar a tela anterior, por outro ícone que indique "voltar a home" ou identificar com um pequeno texto o símbolo como "voltar a página principal"|
+|Usuários não identificaram o símbolo de voltar como uma seta|médio|trocar o ícone de seta, comumente utilizado para voltar a tela anterior, por outro ícone que indique "voltar a home" ou identificar com um pequeno texto o símbolo como "voltar a página principal"|
 
 
 
