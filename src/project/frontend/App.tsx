@@ -1,9 +1,10 @@
+import { Routes } from "./src/routes";
+import { NavigationContainer } from '@react-navigation/native';
+import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 
-import { FC } from 'react';
-import { Routes } from './src/routes';
-
-const App: FC = () => {
-  return <Routes />;
+export default function App() {
+  return (
+    <Routes />
+      
+  );
 }
-
-export default App;
