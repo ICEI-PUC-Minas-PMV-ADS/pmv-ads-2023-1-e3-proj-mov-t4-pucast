@@ -17,7 +17,9 @@ De acordo com os ítens descritos em Plano de Testes de software , segue os regi
 
 - **3-Teste de Aceitação**: *Realizar o login/cadastro de um usuário;*
 - **4-Teste de Integridade de Dados e Banco de Dados**:*verificar o funcionamento do banco de dados a fim de identificar possíveis erros ou dados e comando corrompidos;*
-- **5-Teste de interface de usuário**: *Verificar a navegabilidade pelo aplicativo*;O sistema , inicialmente , responde aos comando de seta para voltar a página inicial. Os comando de compartilhar , favoritar e selecionar serão implementados posteriormente na página do Podcast . 
+- **5-Teste de interface de usuário**: *Verificar a navegabilidade pelo aplicativo*;O sistema , inicialmente , responde aos comando de seta para voltar a página inicial. Os comando de compartilhar , favoritar e selecionar serão implementados posteriormente na página do Podcast .
+- **6-Testar o aplicativo na carga de trabalho para armazenamento dos podcasts favoritos selecionados pelo cliente e o desempenho de dos dados no sistema** : *O aplicativo foi desenvolvido a fim de não ter armazenamento , fazendo com que seus usuários acessem podcasts direto do Youtube , através de links recomendados*
+- **7-Verificar a segurança no aplicativo para o acesso ao login e ao inserir dados de cadastro , Respeitando a lei de Proteção Geral de Dados** : *Foi desenvolvida uma API para testar a verificação de dados da plataforma, que responde bem a inserção de dados do Banco de Dados Fictício. Por ser um aplicativo não hospedado, não há usuários na plataforma verdadeiros*
 - **8-Teste de Instalação**: *Verificar se o sistema funciona em outras máquinas que nunca receberam ou acessaram o aplicativo;* o arquivo do sistema quando enviado a outros colegas abre com o Expo Go localmente. Para este projeto , não será necessário a hospedagem . 
 
 
