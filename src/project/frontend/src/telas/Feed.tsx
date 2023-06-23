@@ -17,6 +17,7 @@ function Feed() {
         {
           podcasts.map((podcast, index) => (
             <Card
+              buttons="Full"
               key={index}
               podcast={{
                 description: podcast.description,

@@ -29,6 +29,7 @@ function Favoritos() {
         {
           favoritesPodcasts.length !== 0 ? favoritesPodcasts.map((podcast, index) => (
             <Card
+              buttons="Favorite"
               key={index}
               podcast={{
                 description: podcast.description,

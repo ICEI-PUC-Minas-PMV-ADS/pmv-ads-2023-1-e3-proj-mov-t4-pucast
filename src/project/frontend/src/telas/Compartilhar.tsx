@@ -29,6 +29,7 @@ function Compartilhar() {
         {
           favoritesPodcasts.length !== 0 ? favoritesPodcasts.map((podcast, index) => (
             <Card
+              buttons="Compartilhar"
               key={index}
               podcast={{
                 description: podcast.description,

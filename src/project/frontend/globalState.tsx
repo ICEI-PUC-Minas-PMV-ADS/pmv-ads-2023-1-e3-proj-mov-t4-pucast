@@ -114,27 +114,12 @@ export const GlobalState: FC<IGlobalStateProps> = ({ children }) => {
         isFavorite: false
     }]);
 
-  const desFavoritePodcast = (id: number) => {
+  const toogleFavoritePodcast = (id: number) => {
     
     const newArrayPodcast = podcasts.filter(podcast => {
     
       if (podcast.id === id) {
-        podcast.isFavorite = false;
-      };
-
-      return podcast;
-
-    });
-
-    setPodcasts(newArrayPodcast);
-  };  
-
-  const favoritePodcast = (id: number) => {
-    
-    const newArrayPodcast = podcasts.filter(podcast => {
-    
-      if (podcast.id === id) {
-        podcast.isFavorite = true;
+        podcast.isFavorite = !podcast.isFavorite;
       };
 
       return podcast;
@@ -148,8 +133,7 @@ export const GlobalState: FC<IGlobalStateProps> = ({ children }) => {
     <Context.Provider
       value={{
         podcasts,
-        desFavoritePodcast,
-        favoritePodcast
+        toogleFavoritePodcast
       }}
     >
       {children}

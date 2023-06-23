@@ -11,10 +11,8 @@ export interface IPodcastProps {
 
 export default React.createContext<{
     podcasts: [] | IPodcastProps[]
-    desFavoritePodcast: (podcastId: number) => void;
-    favoritePodcast: (podcastId: number) => void;
+    toogleFavoritePodcast: (podcastId: number) => void;
 }>({
     podcasts: [],
-    desFavoritePodcast: (podcastId) => { },
-    favoritePodcast: (podcastId) => { }
+    toogleFavoritePodcast: (podcastId) => { }
 });
