@@ -21,7 +21,7 @@ export const Card: React.FC<ICardProps> = ({ img, podcast, buttons }) => {
         event.preventDefault();
 
         Linking.openURL(
-            `http://api.whatsapp.com/send/?text=Oie, tudo bem? %0A%0A Você já ouviu o podcast _*${title}*_? Ele anda em alta no Youtube e eu Recomendo Muito!! %0A Caso tenha interesse acesse esse link: _*${url}*_&phone=+5511960284736`
+            `http://api.whatsapp.com/send/?text=Oie, tudo bem? %0A%0A Você já ouviu o podcast _*${title}*_? Ele anda em alta no Youtube e eu Recomendo Muito!! %0A Caso tenha interesse acesse esse link: _*${url}*_`
         );
     };
 
