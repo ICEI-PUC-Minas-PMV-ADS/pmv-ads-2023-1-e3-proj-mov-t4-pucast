@@ -23,7 +23,20 @@ Nossa proposta é desenvolver um aplicativo mobile que consiga facilitar os usu�
 
 ## Instruções de utilização
 
-Em breve teremos aqui, instruções de uso.
+Para testar o projeto, realize os seguintes passos : 
+
+1° Clonar o Projeto ou Pegar a Última Versão do Git Hub 
+
+2° Acessar a pasta "Front End" 
+- Da para abrir direto pelo visual studio ou usar o comando "cd .\pmv-ads-2023-1-e3-proj-mov-t4-pucast\src\project\frontend\" na linha de comando 
+
+3° Verifica a sua versão do node js 
+- Precisa ser a versão 16.16.0 ou superior 
+- Para verificar a versão se usa o comando 'node -v' na linha de comando 
+
+4° Instalar as Dependências do Projeto com o comando "npm i"
+
+5° executar o projeto com o comando "npm run start"
 
 # Documentação
 
