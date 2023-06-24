@@ -14,6 +14,7 @@ O Aplicativo inicialmente tem dois botões de acesso : O de Login de email e sen
 
  O Vídeo também está disponível para donwload através do link do GitHub :https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/blob/main/docs/img/WhatsApp%20Video%202023-06-23%20at%2019.47.03.mp4
 
+
 ## Identidade Visual (Marca, Design)
 
 ![[Símbolo Pucast](docs/img/WhatsApp Image 2023-06-04 at 19.10.58 (1).jpeg)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/blob/main/docs/img/WhatsApp%20Image%202023-06-04%20at%2019.10.58%20(1).jpeg)
@@ -39,3 +40,6 @@ A seguir destaco em forma de tópicos as nossas considerações finais:
 ## Conjunto de Slides (Estrutura) : 
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/blob/main/docs/img/Pucast%20Power%20Point.pptx
+
+### Gif Adicional de teste do App 
+![[Gif Teste](docs/img/WhatsApp Video 2023-06-23 at 21.13.27.gif)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/blob/main/docs/img/WhatsApp%20Video%202023-06-23%20at%2021.13.27.gif)
