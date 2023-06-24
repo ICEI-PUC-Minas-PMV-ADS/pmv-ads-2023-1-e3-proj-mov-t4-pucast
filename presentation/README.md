@@ -10,3 +10,6 @@ O Aplicativo inicialmente tem dois botões de acesso : O de Login de email e sen
  O exemplo é exibido acima é mostrado no vídeo postado no Youtube , através deste link : https://youtu.be/AfoM5tfrVkA 
 
  O Vídeo também está disponível para donwload através do link do GitHub :https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/blob/main/docs/img/WhatsApp%20Video%202023-06-23%20at%2019.47.03.mp4
+
+ # Gif Adicional de teste do App 
+![[Gif Teste](docs/img/WhatsApp Video 2023-06-23 at 21.13.27.gif)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast/blob/main/docs/img/WhatsApp%20Video%202023-06-23%20at%2021.13.27.gif)
