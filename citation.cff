@@ -1,0 +1,26 @@
+message: Please cite this software using these metadata.
+title: PUCAST
+authors:
+  - family-names: de Sousa Marques
+    given-names: Edglei 
+  - family-names: Luiza Cupertino De Oliveira
+    given-names: Josyane
+  - family-names: Silva Jaques
+    given-names: Leonardo
+  - family-names: Conceição Silva
+    given-names: Renato
+  - family-names: Almeida Amorim
+    given-names: Thiago
+  - family-names: Ingrid De Oliveira Pinto
+    given-names: Stephanie
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Curcino De Lima
+    given-names: Mateus 
+keywords:
+  - Gestão
+  - Biblioteca
+  - Livros
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t4-pucast
+version: 1.0.0
+date-released: 2023-06-23
